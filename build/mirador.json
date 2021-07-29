@@ -1,18 +1,18 @@
 {
 	"manifests": {
-		"https://iiif.harvardartmuseums.org/manifests/object/299843": {
+		"https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json": {
 			"provider": "Harvard University"
 		},
-		"https://media.nga.gov/public/manifests/nga_highlights.json": {
+		"https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json": {
 			"provider": "National Gallery of Art"
 		}
 	},
 	"windows": [{
-			"manifestId": "https://media.nga.gov/public/manifests/nga_highlights.json",
+			"manifestId": "https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json",
 			"canvasIndex": 0
 		},
 		{
-			"manifestId": "https://iiif.harvardartmuseums.org/manifests/object/299843",
+			"manifestId": "https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json",
 			"canvasIndex": 3
 		}
 	]
