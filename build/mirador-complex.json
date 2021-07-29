@@ -1,23 +1,23 @@
 	{
 	"manifests": {
-		"https://data.getty.edu/museum/api/iiif/865/manifest.json":
-    {"provider": "The J. Paul Getty Museum"}, "https://data.getty.edu/museum/api/iiif/248/manifest.json":
-    {"provider": "The J. Paul Getty Museum"},"https://media.nga.gov/public/manifests/nga_highlights.json":
-    {"provider": "National Gallery of Art"},"https://iiif.harvardartmuseums.org/manifests/object/299964":
+		"https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json":
+    {"provider": "The J. Paul Getty Museum"}, "https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json":
+    {"provider": "The J. Paul Getty Museum"},"https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json":
+    {"provider": "National Gallery of Art"},"https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json":
     {"provider": "Harvard Art Museums"},"https://collections.frick.org/apis/iiif/presentation/v2/objects-266/manifest":
     {"provider": "The Frick Collection"},"https://media.ng-london.org.uk/iiif/001-043H-0000/manifest.json":
     {"provider": "The National Gallery"}		
 		},
 	"windows": [
 		{ "id": "a",
-			"manifestId": "https://data.getty.edu/museum/api/iiif/865/manifest.json" },
+			"manifestId": "https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json" },
 		{ "id": "b",
-			"manifestId": "https://data.getty.edu/museum/api/iiif/248/manifest.json" },
+			"manifestId": "https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json" },
 		{ "id": "c",
-			"manifestId": "https://media.nga.gov/public/manifests/nga_highlights.json",
-			"canvasId":"https://media.nga.gov/public/manifests/canvas/1225.json"},
+			"manifestId": "https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json",
+			"canvasId":"https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json"},
 		{ "id": "d",
-			"manifestId": "https://iiif.harvardartmuseums.org/manifests/object/299964" },
+			"manifestId": "https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json" },
 		{ "id": "e",
 			"manifestId": "https://collections.frick.org/apis/iiif/presentation/v2/objects-266/manifest" },
 		{ "id": "f",
