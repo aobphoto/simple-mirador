@@ -1,6 +1,6 @@
 {
 	"manifests": {
-		"https://research.ng-london.org.uk/iiif/projects/external/m1391/manifest.json": {
+		"https://dev.isos.dias.ie/static/manifests/RIA_MS_23_P_12.json": {
 			"provider": "Hunterian Art Gallery"
 		}
 	},
